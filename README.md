@@ -1,1 +1,1 @@
-1. [ДЗ№1](//github.com/MariiaNS/HomeWork-YLab/tree/main/homework_Ylab/homework_1)
+1. [ДЗ№1](https://github.com/MariiaNS/HomeWork-YLab/tree/main/homework_1)
